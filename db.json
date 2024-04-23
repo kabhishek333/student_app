@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "name": "Ram",
+      "roll": "101",
+      "age": "25",
+      "id": 1
+    },
+    {
+      "name": "Ramesh",
+      "roll": "102",
+      "age": "26",
+      "id": 2
+    },
+    {
+      "name": "Krish",
+      "roll": "105",
+      "age": "24",
+      "id": 3
+    },
+    {
+      "name": "Mahi",
+      "roll": "103",
+      "age": "25",
+      "id": 4
+    },
+    {
+      "name": "Diven",
+      "roll": "104",
+      "age": "23",
+      "id": 5
+    },
+    {
+      "name": "Bheem",
+      "roll": "107",
+      "age": "24",
+      "id": 6
+    },
+    {
+      "name": "Sanju",
+      "roll": "108",
+      "age": "23",
+      "id": 7
+    }
+  ]
+}
